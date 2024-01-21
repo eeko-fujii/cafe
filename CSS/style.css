@@ -245,7 +245,7 @@ label{
     display: block;
 }
 input[type="text"],
-input[type="name"],
+input[type="email"],
 textarea{
     background: rgba(255,255, 255, .5);
     border: 1px #fff solid;
